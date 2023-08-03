@@ -1,9 +1,9 @@
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.6;
+  line height: 1.6;
   margin: 20px;
   background-image: url(logo.jpg);
-  background-size: 80px;
+
 }
 
 .header {
