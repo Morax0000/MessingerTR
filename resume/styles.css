@@ -2,8 +2,8 @@ body {
   font-family: Arial, sans-serif;
   line height: 1.6;
   margin: 0px;
-  background-image: url(logo.jpg);
-background-size: 100px;
+  background-image: (logo.jpg);
+
 }
 
 .header {
