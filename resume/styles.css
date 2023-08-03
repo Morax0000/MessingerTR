@@ -1,8 +1,8 @@
 body {
   font-family: Arial, sans-serif;
   line height: 1.6;
-  margin: 20px;
-  background-image: (logo.jpg);
+  margin: 0px;
+  background-image: url(logo.jpg);
 
 }
 
