@@ -145,11 +145,15 @@ footer {
         margin-bottom: 10px;
     }
 
-       @media (max-width: 360px) {
+       @media (max-width: 1440px) {
+    
     #hero-section h1 {
-        font-size: 24px;
+        font-size: 28px;
     }
     
     #hero-section p {
-        font-size: 14px;
-    } 
+        font-size: 16px;
+    }
+        
+    
+    
